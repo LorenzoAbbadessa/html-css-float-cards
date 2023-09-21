@@ -1,0 +1,28 @@
+.titolo{
+    color:#E53170;
+    width: 80%;
+    margin: 50px auto ;
+    text-align: center;
+}
+
+.descrizione{
+    width: 80%;
+    margin: 50px auto ;
+    text-align: center;
+}
+
+.container{
+    width: 90%;
+    height: 150px;
+    background-color: black;
+    margin: auto;
+}
+
+.uno, .due, .tre{
+    width: 33%;
+    margin:1px;
+    height: 150px;
+    background-color: blue;
+    float: left;
+}
+
